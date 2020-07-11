@@ -5,4 +5,4 @@ Git tracks changes of files.
 Git tracks changes.
 Creating a new branch is quick and simple.
 Master branch and feature1 branch.
-Creating second branch feature1 using command "git checkout -b feature1".
+Master branch and feature1 branch merge conflict fixed.
