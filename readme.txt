@@ -6,3 +6,4 @@ Git tracks changes.
 Creating a new branch is quick and simple.
 Master branch and feature1 branch.
 Master branch and feature1 branch merge conflict fixed.
+Add merge.
